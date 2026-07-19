@@ -1,18 +1,35 @@
-# Hi, I'm Shreya 👋
+# Hi 👋, I'm Shreya Dutta
 
-🎓 B.Tech CSE (Cybersecurity) Student
+## 🎓 About Me
+- 🎓 B.Tech in Computer Science & Engineering (Cybersecurity)
+- 🌱 Currently learning C, Python, Git & GitHub
+- 📚 Exploring Data Structures and Algorithms
+- 💻 Passionate about Cybersecurity and Software Development
+- 🚀 Always eager to learn new technologies
 
-## 🌱 Currently Learning
+## 🛠️ Technical Skills
+- Programming: C, Python
+- Version Control: Git, GitHub
+- Concepts: Basic Data Structures
+- Operating Systems: Windows
+
+## 📂 Projects
+- 🧮 Calculator in C *(Coming Soon)*
+- ❓ Quiz Game in C *(Coming Soon)*
+- 🏦 Bank Management System *(Coming Soon)*
+
+## 🎯 Career Objective
+To build strong programming skills, gain practical experience through projects, and grow into a skilled Cybersecurity Professional.
+
+## 📚 Currently Learning
 - C Programming
 - Python
 - Git & GitHub
 - Data Structures
+- Cybersecurity Fundamentals
 
-## 🛠 Skills
-- C
-- Python
-- Git
-- GitHub
+## 📫 Connect with Me
+- LinkedIn: *(Add your LinkedIn profile link here)*
 
-## 🎯 Goal
-To become a skilled Cybersecurity Professional by building projects and learning new technologies.
+---
+⭐ Thanks for visiting my GitHub profile!
