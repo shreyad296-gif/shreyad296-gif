@@ -1,4 +1,4 @@
-# Hi 👋, I'm Shreya Dutta
+~ I'm Shreya Dutta
 
 ## 🎓 About Me
 - 🎓 B.Tech in Computer Science & Engineering (Cybersecurity)
