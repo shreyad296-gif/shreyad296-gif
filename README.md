@@ -22,14 +22,16 @@
 To build strong programming skills, gain practical experience through projects, and grow into a skilled Cybersecurity Professional.
 
 ## 📚 Currently Learning
+
 - C Programming
 - Python
 - Git & GitHub
-- Data Structures
+- Data Structures and algorithms 
 - Cybersecurity Fundamentals
+- oops (java)
 
 ## 📫 Connect with Me
-- LinkedIn: *(Add your LinkedIn profile link here)*
+- LinkedIn: *(...)*
 
 ---
 ⭐ Thanks for visiting my GitHub profile!
