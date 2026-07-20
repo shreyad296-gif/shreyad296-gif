@@ -1,4 +1,4 @@
-~ I'm Shreya Dutta
+~ 𝑰'𝒎 𝑺𝒉𝒓𝒆𝒚𝒂 𝑫𝒖𝒕𝒕𝒂
 
 ## 🎓 About Me
 - 🎓 B.Tech in Computer Science & Engineering (Cybersecurity)
@@ -14,9 +14,9 @@
 - Operating Systems: Windows
 
 ## 📂 Projects
-- 🧮 Calculator in C *(Coming Soon)*
-- ❓ Quiz Game in C *(Coming Soon)*
-- 🏦 Bank Management System *(Coming Soon)*
+- 
+
+
 
 ## 🎯 Career Objective
 To build strong programming skills, gain practical experience through projects, and grow into a skilled Cybersecurity Professional.
