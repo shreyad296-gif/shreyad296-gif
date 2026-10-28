@@ -31,7 +31,7 @@ To build strong programming skills, gain practical experience through projects, 
 - oops (java)
 
 ## 📫 Connect with Me
-- LinkedIn: *(...)*
+- LinkedIn: https://www.linkedin.com/in/shreya-dutta-b25922423?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 ⭐ Thanks for visiting my GitHub profile!
